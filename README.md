@@ -10,5 +10,5 @@
 
 ## Commands
 
-`?players` -> Default server player count
+`?players` -> Default server player count  
 `?players <guid>` -> Player count for the given server
